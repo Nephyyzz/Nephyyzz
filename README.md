@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 I'm a **Web developer** and **Web designer** from **Central Java, Indonesia**.  
+- 🎓 I'm a **Web developer** and **Web designer** from **Indonesia**.  
 - 🖌️ My hobbies include **Coding**, **Drawing**, and **Playing games**.  
 - 🎮 Passionate about building interactive and dynamic web applications.
 
